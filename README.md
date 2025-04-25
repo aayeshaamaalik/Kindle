@@ -57,15 +57,6 @@ To set up and run this project locally:
    cd kindle-factory-patterns
    ```
 
-3. Compile all source files:
-   ```bash
-   javac common/*.java simplefactory/*.java factorymethod/*.java abstractfactory/*.java Main.java
-   ```
-
-4. Run the demo:
-   ```bash
-   java Main
-   ```
 
 ---
 
